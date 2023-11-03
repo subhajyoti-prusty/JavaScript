@@ -1,0 +1,1 @@
+alert("Something is wrong");
